@@ -1,0 +1,40 @@
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\App.g.cs
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\bin\Debug\OxyPlot.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\bin\Debug\OxyPlot.xml
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\12_двоичное деление\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\bin\Debug\OxyPlot.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\bin\Debug\OxyPlot.xml
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\App.g.cs
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_16_double_search\WpfApp1\obj\Debug\WpfApp1.pdb

@@ -50,50 +50,58 @@ namespace WpfApp1
 
             
 
-            FunctionSeries functionseries = new FunctionSeries(MyFunction, 0, 50, 0.01, "кв. у-ря");
+            FunctionSeries functionseries = new FunctionSeries(MyFunction, 0, 10, 0.01, "кв. у-ря");
             model.Series.Add(functionseries);
 
 
 
-            int left = 35;
-            int right = 50;
+            float left = 1;
+            float right = 40;
+            
+            
+            float epsilon_1 = 0.001f;
+            float middle_1 = (left + right) / 2;
+            float n = middle_1;
 
-            while ((right - left) > 1) 
+            while ((right - left) > epsilon_1) 
             {
-                int len = right - left;
-                int half = len / 2;
-                int middle = left + half;
-
-                TextBox1.Text = middle.ToString();
-
-                if (Math.Sign(MyFunction(left)) != Math.Sign(MyFunction(right)))
+                TextBox1.Text = middle_1.ToString();
+                middle_1 = (left + right) / 2;
+                if (MyFunction(left) * MyFunction(middle_1) < 0)
                 {
-                    right = middle;
+                    right = middle_1;
                 }
                 else
                 {
-                    left = middle;
+                    left = middle_1;
                 }
+                
             }
 
+            
+
+            //TextBox1.Text = epsilon_1.ToString();
             //TextBox1.Text
             LineSeries lineSeries = new LineSeries() { Title = "Series 2", MarkerType = MarkerType.Square };
             //lineSeries.MarkerType = 
             //lineSeries.Points.Add(new DataPoint(33, 55));
-            model.Series.Add(lineSeries);
-            lineSeries.Points.Add(new DataPoint(float.Parse(TextBox1.Text), Math.Pow(2, float.Parse(TextBox1.Text))));
 
+
+            model.Series.Add(lineSeries);
+            lineSeries.Points.Add(new DataPoint(float.Parse(TextBox1.Text), MyFunction(float.Parse(TextBox1.Text))));
+            
+            //TextBox1.Text = TextBox1.Text + "___" + n.ToString();
             //lineSeries.Points.Add(new DataPoint(0, 0));
 
 
-            
+
 
 
             Plotplot.Model = model;
         }
         private double MyFunction(double x)
         {
-            return Math.Pow(2, x);
+            return x*x - 16;
         }
     }
         
